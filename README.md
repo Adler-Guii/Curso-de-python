@@ -4,3 +4,5 @@
 
 
 Minhas primeiras linhas de código em python 
+
+"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original".(Albert Einstein)
